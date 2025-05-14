@@ -14,15 +14,15 @@ No more strings — just autocomplete-friendly, raw value–based access to SF S
 ## Examples
 
 ```swift
-let symbolName = EasySymbol.xmark.rawValue
+let symbolName = Symbol.xmark.rawValue
 
 // SwiftUI
-EasySymbol.xmark.image
+Symbol.xmark.image
     .resizable()
     .scaledToFit()
 
 // UIKit
-let uiKitImage = EasySymbol.xmark.imageView
+let uiKitImage = Symbol.xmark.imageView
 ```
 
 ## Installation
