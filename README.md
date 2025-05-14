@@ -1,4 +1,4 @@
-![Banner](docs/banner.jpeg)
+![Banner](./docs/banner.jpg)
 
 [![Swift](https://github.com/EasyPackages/EasySymbol/actions/workflows/swift.yml/badge.svg)](https://github.com/EasyPackages/EasySymbol/actions/workflows/swift.yml)
 
@@ -34,7 +34,7 @@ In your dependency you can add this in your `Package.swift`:
 ```swift
 dependencies: [
     .package(
-        url: "https://github.com/your-username/EasyMock.git",
+        url: "https://github.com/EasyPackages/EasySymbol.git",
         from: "1.0.0"
     )
 ]
