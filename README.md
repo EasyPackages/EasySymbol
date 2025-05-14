@@ -1,4 +1,4 @@
-![Banner](./docs/banner.jpeg)
+![Banner](./docs/banner.jpg)
 
 [![Swift](https://github.com/EasyPackages/EasySymbol/actions/workflows/swift.yml/badge.svg)](https://github.com/EasyPackages/EasySymbol/actions/workflows/swift.yml)
 
