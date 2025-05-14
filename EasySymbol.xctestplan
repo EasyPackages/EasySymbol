@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "66BD48CA-CD05-4A2C-881B-45CCAC66E38C",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testExecutionOrdering" : "random"
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:",
+        "identifier" : "EasySymbolTests",
+        "name" : "EasySymbolTests"
+      }
+    }
+  ],
+  "version" : 1
+}
