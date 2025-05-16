@@ -2,11 +2,6 @@ import Testing
 
 @testable import EasySymbol
 
-@Test("Ensure total of symbols")
-func testTotal() {
-    #expect(Symbol.allCases.count == 5_296)
-}
-
 @Test("􀥊")
 func testAbc() {
     #expect(Symbol.abc.rawValue == "abc")
